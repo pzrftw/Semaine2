@@ -6,3 +6,4 @@ Rendez-vous sur mon profil: [Badges Codecademy](https://www.codecademy.com/fr/us
 
 ##Exercice 2 - CV (html)  
 
+Fichier: Semaine2/Exercice 3 - C.V
